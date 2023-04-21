@@ -10,7 +10,7 @@
 	register_plugin(
 		$thisfile, //Plugin id
 		'PhotoDownloader',  //Plugin name
-		'1.1',      //Plugin version
+		'1.2',      //Plugin version
 		'Multicolor',  //Plugin author
 		'http://paypal.me/multicol0r', //author website
 		i18n_r('photoGrabber/LANG_Description'), //Plugin description
